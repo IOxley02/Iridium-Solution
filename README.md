@@ -29,7 +29,7 @@ Video on PostgreSQL: https://www.youtube.com/watch?v=qw--VYLpxG4&t=2025s
     > CREATE TABLE todo(
     > todo_id SERIAL PRIMARY KEY,
     > description VARCHAR(255),
-    > override int,
+    > override int
     > );
     - This will initialize an empty database, values can be added later on the website. The code instructions are also listed in database.sql
 4) Open a UNIX (I used GitBash) in server and run the command, this will boot up the SQL table on localhost:5000
@@ -40,7 +40,15 @@ Video on PostgreSQL: https://www.youtube.com/watch?v=qw--VYLpxG4&t=2025s
 
 ## Implimentation 1
 Utilizes a one at a time appending utilizing a for loop. It will continouosuly call "POST" for the given index in the loop. Once finished, it will refresh the webpage and return the data table
-        > NOTE: the table CANNOT loop for integers of varying character lengths (e.g. 1- 9, 10- 99, 100 - 999 all work, but 1-10, 10 - 100, 100 - 1000 don't work)
+    > NOTE: the table CANNOT loop for integers of varying character lengths (e.g. 1- 9, 10- 99, 100 - 999 all work, but 1-10, 10 - 100, 100 - 1000 don't work)
 
 ## Implimentation 2
 Utilizes a singular POST command which calls for indexes between the starting and ending index. Once finished it will refresh the website and return the data table
+
+## Questions and Contact
+If you have any questions, try checking the links above first
+
+Please feel free to reach out to me at one of my media platforms:
+    - Email: imo2002imo@gmail.com
+    - Mobile: 480-352-4731
+    - LinkedIn: https://www.linkedin.com/in/ian-oxley-9a3bb721b/
