@@ -49,6 +49,6 @@ Utilizes a singular POST command which calls for indexes between the starting an
 If you have any questions, try checking the links above first
 
 Please feel free to reach out to me at one of my media platforms:
-    - Email: imo2002imo@gmail.com
-    - Mobile: 480-352-4731
-    - LinkedIn: https://www.linkedin.com/in/ian-oxley-9a3bb721b/
+- Email: imo2002imo@gmail.com
+- Mobile: 480-352-4731
+- LinkedIn: https://www.linkedin.com/in/ian-oxley-9a3bb721b/
