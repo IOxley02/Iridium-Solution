@@ -2,8 +2,12 @@
 HTML based communication with a database located in a PostgreSQL interface. Built utilizing a PERN stack structure, implimenting multiple react modules, node.js, and Bootstrap
 
 I used the following references to help me build this program
+
 Code based on: https://www.youtube.com/watch?v=ldYcgPKEZC8
 
+Helpful Resources:
+- https://www.geeksforgeeks.org/difference-between-pern-and-mern-stack/#:~:text=PERN%20STACK%3A%20This%20stack%20consists,is%20great%20for%20complex%20duties.
+- https://pern-starter.herokuapp.com/
 
 ## Necessary Modules to run
 
