@@ -38,11 +38,11 @@ Video on PostgreSQL: https://www.youtube.com/watch?v=qw--VYLpxG4&t=2025s
     > npm start
 6) The application should open on your web browser on localhost:3000, currently this program only accepts values which are added individually,
 
-## Implimentation 1
+## Implementation 1
 Utilizes a one at a time appending utilizing a for loop. It will continouosuly call "POST" for the given index in the loop. Once finished, it will refresh the webpage and return the data table
     > NOTE: the table CANNOT loop for integers of varying character lengths (e.g. 1- 9, 10- 99, 100 - 999 all work, but 1-10, 10 - 100, 100 - 1000 don't work)
 
-## Implimentation 2
+## Implementation 2
 Utilizes a singular POST command which calls for indexes between the starting and ending index. Once finished it will refresh the website and return the data table
 
 ## Questions and Contact
